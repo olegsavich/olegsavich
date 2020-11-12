@@ -9,7 +9,7 @@
         <a href="https://lms.ucode.world/users/plitovka/" target="_blank">
             <img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Header/lms.png" height="100px">
         </a>
-        <h2 align="center">Oh, hello there</h2>
+        <p><h2 align="center">Oh, hello there</h2></p>
     </p>
 </head>
 
