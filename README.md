@@ -14,6 +14,6 @@
 </head>
 
 <footer>
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"></p>
+<p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"></p>
 <h4 align="center">Feel free to use my repositories for your own UCODE works.</h4>
 </footer>
