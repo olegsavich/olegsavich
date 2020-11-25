@@ -14,6 +14,6 @@
 </head>
 
 <footer>
-<p align="center"><a href="https://emoji.gg/emoji/2860_hellothere"><img src="https://emoji.gg/assets/emoji/2860_hellothere.gif" width="64px" height="64px" alt="hellothere"></a></p>
+<p align="center"><img src="https://emoji.gg/assets/emoji/2860_hellothere.gif" width="64px" height="64px" alt="hellothere"></a></p>
 <h4 align="center">Feel free to use my repositories for your own UCODE works.</h4>
 </footer>
