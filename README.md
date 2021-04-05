@@ -15,6 +15,8 @@
 
 <footer>
 <p align="center"><img src="https://emoji.gg/assets/emoji/2860_hellothere.gif" width="64px" height="64px" alt="hellothere"></a></p>
-<img align="left" src="https://github-readme-stats-mu-lime.vercel.app/api?username=nogakazaha&show_icons=true&include_all_commits=true&theme=buefy">
+<div align="center">
+    <img align="center" src="https://github-readme-stats-mu-lime.vercel.app/api?username=nogakazaha&show_icons=true&include_all_commits=true&theme=buefy">
+</div>
 <h4 align="center">Feel free to use my repositories for your own UCODE works.</h4>
 </footer>
